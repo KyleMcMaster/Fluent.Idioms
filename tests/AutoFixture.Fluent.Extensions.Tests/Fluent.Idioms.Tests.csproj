@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\AutoFixture.Fluent.Extensions\AutoFixture.Idioms.Fluent.Extensions.csproj" />
+    <ProjectReference Include="..\..\src\AutoFixture.Fluent.Extensions\Fluent.Idioms.csproj" />
   </ItemGroup>
 
 </Project>

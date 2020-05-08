@@ -1,6 +1,7 @@
-﻿using AutoFixture.AutoNSubstitute;
+﻿using AutoFixture;
+using AutoFixture.AutoNSubstitute;
 
-namespace AutoFixture.Idioms.Fluent.Extensions.Fixtures
+namespace Fluent.Idioms.Fixtures
 {
     internal class DomainFixture : Fixture
     {

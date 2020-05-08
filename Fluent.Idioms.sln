@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EEADA4B6-592
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4D03849A-C49B-428F-ADE6-EE6F3282EEF9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoFixture.Idioms.Fluent.Extensions.Tests", "tests\AutoFixture.Fluent.Extensions.Tests\AutoFixture.Idioms.Fluent.Extensions.Tests.csproj", "{873703FB-7D1C-4199-A24B-1D0DC156D1C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fluent.Idioms.Tests", "tests\AutoFixture.Fluent.Extensions.Tests\Fluent.Idioms.Tests.csproj", "{873703FB-7D1C-4199-A24B-1D0DC156D1C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoFixture.Idioms.Fluent.Extensions", "src\AutoFixture.Fluent.Extensions\AutoFixture.Idioms.Fluent.Extensions.csproj", "{7BE5BCF4-0CF9-4F68-919D-8F2F12C278CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fluent.Idioms", "src\AutoFixture.Fluent.Extensions\Fluent.Idioms.csproj", "{7BE5BCF4-0CF9-4F68-919D-8F2F12C278CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

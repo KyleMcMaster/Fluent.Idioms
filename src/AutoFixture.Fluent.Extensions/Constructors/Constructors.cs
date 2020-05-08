@@ -2,7 +2,7 @@
 using System;
 using System.Reflection;
 
-namespace AutoFixture.Idioms.Fluent.Extensions.Constructors
+namespace Fluent.Idioms.Constructors
 {
     public static class ConstructorExtensions
     {

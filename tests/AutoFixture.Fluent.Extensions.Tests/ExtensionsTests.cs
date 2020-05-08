@@ -1,8 +1,10 @@
-﻿using AutoFixture.Idioms.Fluent.Extensions.Constructors;
-using AutoFixture.Idioms.Fluent.Extensions.Methods;
+﻿using AutoFixture.Idioms;
+using Fluent.Idioms.Constructors;
+using Fluent.Idioms.Extensions;
+using Fluent.Idioms.Methods;
 using Xunit;
 
-namespace AutoFixture.Idioms.Fluent.Extensions.Tests
+namespace Fluent.Idioms.Tests
 {
     public class ExtensionsTests
     {

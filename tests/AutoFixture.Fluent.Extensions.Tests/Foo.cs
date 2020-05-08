@@ -1,8 +1,8 @@
-﻿namespace AutoFixture.Idioms.Fluent.Extensions.Tests
+﻿namespace Fluent.Idioms.Tests
 {
     internal class Foo
     {
-        private string Bar { get; set; }
+        public string Bar { get; set; }
 
         public Foo(string bar) => Bar = bar;
 

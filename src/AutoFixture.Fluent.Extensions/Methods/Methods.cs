@@ -2,7 +2,7 @@
 using System;
 using System.Reflection;
 
-namespace AutoFixture.Idioms.Fluent.Extensions.Methods
+namespace Fluent.Idioms.Methods
 {
     public static class MethodExtensions
     {

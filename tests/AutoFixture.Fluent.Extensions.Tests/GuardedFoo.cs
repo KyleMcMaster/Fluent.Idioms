@@ -1,7 +1,6 @@
 ﻿using Ardalis.GuardClauses;
-using System;
 
-namespace AutoFixture.Idioms.Fluent.Extensions.Tests
+namespace Fluent.Idioms.Tests
 {
     internal class GuardedFoo
     {
